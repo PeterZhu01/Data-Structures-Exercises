@@ -1,0 +1,25 @@
+﻿  SortFun.cpp
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.h(1,1): warning C4828: 文件包含在偏移 0xe65 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(64,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(173,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(301,15): warning C4244: “=”: 从“KeyType”转换到“int”，可能丢失数据
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(374,14): warning C4244: “参数”: 从“KeyType”转换到“int”，可能丢失数据
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(442,6): warning C4101: “i”: 未引用的局部变量
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(457,6): warning C4101: “k”: 未引用的局部变量
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(484,6): warning C4101: “k”: 未引用的局部变量
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(517,28): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(517,28): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(519,29): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(519,29): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(520,30): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(520,30): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(521,30): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(521,30): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(522,31): warning C4474: fscanf_s: 格式字符串中传递的参数太多
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(522,31): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(546,23): warning C4244: “=”: 从“double”转换到“KeyType”，可能丢失数据
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.cpp(506,14): warning C4101: “fpr”: 未引用的局部变量
+  SortProj.cpp
+D:\本科教学\数据结构\DMU\experiments\SortProj\SortFun.h(1,1): warning C4828: 文件包含在偏移 0xe65 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  SortProj.vcxproj -> D:\本科教学\数据结构\DMU\experiments\SortProj\Debug\SortProj.exe
